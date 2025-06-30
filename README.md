@@ -1,7 +1,5 @@
 # ML_TreeModels_HeartDataset
 
-# Heart-Disease-Prediction-Trees
-
 A machine learning project using **Decision Tree** and **Random Forest** classifiers to predict heart disease. The project includes preprocessing, model training, evaluation, visualization of overfitting, feature importances, and decision tree structure.
 
 ---
