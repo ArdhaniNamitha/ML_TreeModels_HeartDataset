@@ -24,14 +24,15 @@ The dataset contains **303 patient records** with **13 clinical features** such 
 
 ##  Files Included
 
-| File Name                  | Description                                                       |
-|---------------------------|--------------------------------------------------------------------|
-| README.md                 | This project overview and instructions                             |
-| code(Task5).ipynb         | Jupyter Notebook with all model code, training steps, and outputs  |
-| decision tree.png         | Visualization of the trained decision tree                         |
-| feature Importances.png   | Feature importance graph showing top predictive features           |
-| heart.csv                 | Dataset used for training and testing                              |
-| overfitting analysis.png  | Accuracy vs. depth graph to analyze model overfitting              |
+| File Name                  | Description                                                          |
+|----------------------------|-----------------------------------------------------------------------|
+| `code(Task5).ipynb`        | Google Colab notebook with all model code, training steps, and outputs|
+| `heart.csv`                | Dataset used for training and testing                                 |
+| `decision tree.png`        | Visualization of the trained decision tree                            |
+| `feature Importances.png`  | Feature importance graph showing top predictive features              |
+| `overfitting analysis.png` | Accuracy vs. depth graph to analyze model overfitting                 |
+| `README.md`                | This project overview and instructions                                |
+
 
 
 **View Decision Tree Plot**: [Decision Tree](decision%20tree.png)  
@@ -79,10 +80,11 @@ The dataset contains **303 patient records** with **13 clinical features** such 
 
 ##  How to Run
 
-1. Clone this repository or download the files
-2. Ensure `heart.csv` is in the same folder as the notebook
-3. Open `code(Task5).ipynb` in Google Colab Notebook
-4. Run the cells sequentially to view results, visualizations, and model outputs
+1. Open [Google Colab](https://colab.research.google.com/)
+2. Upload the notebook: `code(Task5).ipynb`
+3. Upload the dataset: `heart.csv`
+4. Run each cell in order to see training, plots, and evaluation
+5. PNGs will be generated automatically if `savefig()` is used in code
 
 ---
 
