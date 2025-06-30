@@ -24,14 +24,15 @@ The dataset contains **303 patient records** with **13 clinical features** such 
 
 ##  Files Included
 
-| File Name                   | Description                                                       |
-|----------------------------|-------------------------------------------------------------------|
-| `code(Task5).ipynb`        | Jupyter Notebook with all model code, training steps, and outputs |
-| `heart.csv`                | Dataset used for training and testing                             |
-| `decision tree.png`        | Visualization of the trained decision tree                        |
-| `feature Importances.png`  | Feature importance graph showing top predictive features          |
-| `overfitting analysis.png` | Accuracy vs. depth graph to analyze model overfitting             |
-| `README.md`                | This project overview and instructions                            |
+| File Name                  | Description                                                       |
+|---------------------------|--------------------------------------------------------------------|
+| README.md                 | This project overview and instructions                             |
+| code(Task5).ipynb         | Jupyter Notebook with all model code, training steps, and outputs  |
+| decision tree.png         | Visualization of the trained decision tree                         |
+| feature Importances.png   | Feature importance graph showing top predictive features           |
+| heart.csv                 | Dataset used for training and testing                              |
+| overfitting analysis.png  | Accuracy vs. depth graph to analyze model overfitting              |
+
 
 **View Decision Tree Plot**: [Decision Tree](decision%20tree.png)  
 **View Feature Importances**: [Feature Importances](feature%20Importances.png)  
