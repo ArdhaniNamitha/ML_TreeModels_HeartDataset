@@ -81,7 +81,7 @@ The dataset contains **303 patient records** with **13 clinical features** such 
 
 1. Clone this repository or download the files
 2. Ensure `heart.csv` is in the same folder as the notebook
-3. Open `code(Task5).ipynb` in Jupyter Notebook
+3. Open `code(Task5).ipynb` in Google Colab Notebook
 4. Run the cells sequentially to view results, visualizations, and model outputs
 
 ---
